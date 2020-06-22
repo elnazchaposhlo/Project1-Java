@@ -1,3 +1,7 @@
+/*
+ * @author Elnaz Chaposhlo
+*/
+
 import hashTable.*;
 import searchtrees.*;
 import java.lang.*;
